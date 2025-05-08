@@ -44,7 +44,6 @@ The goal of this project is to build a simple country flag guessing game where u
 ## Technologies Used ⚙️
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 - ![Font Awesome](https://img.shields.io/badge/Font_Awesome-5288D9?style=flat-square&logo=font-awesome&logoColor=white)
@@ -57,7 +56,7 @@ The goal of this project is to build a simple country flag guessing game where u
 
 You can try out the game and see it in action by visiting the following link:
 
-- [Play the Flag Guessing Game](https://yourdemo-link.com)
+- [Play the Flag Guessing Game](https://guess-the-flag-makedonkatochevska.netlify.app/)
 
 ---
 
